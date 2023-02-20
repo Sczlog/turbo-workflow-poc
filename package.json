@@ -14,6 +14,9 @@
   "dependencies": {
     "@types/node": "^18.14.0"
   },
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "turbo": "^1.8.1"
   }
