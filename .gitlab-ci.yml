@@ -5,4 +5,5 @@ stages:
 turbo-run:
   stage: turbo
   script:
+    - pnpm install --frozen-lockfile
     - pnpm start 
