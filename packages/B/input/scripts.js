@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-fs.mkdir("./output");
+fs.mkdirSync("./output");
 
 fs.writeFileSync(
   "./output/file",
