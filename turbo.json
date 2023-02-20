@@ -3,7 +3,8 @@
     "pipeline": {
         "generate": {
             "inputs": [
-                "input/**"
+                "input/**",
+                "../C/extra/**"
             ],
             "outputs": [
                 "output/**"
