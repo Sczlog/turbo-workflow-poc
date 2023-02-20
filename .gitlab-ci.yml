@@ -6,11 +6,11 @@ turbo-run:
   stage: turbo
   script:
     - yarn install
-    - yarn start
+    - yarn test
 
 turbo-run-alpine:
   stage: turbo
   image: registry.smtx.io/cloudtower/node:16-alpine
   script:
     - yarn install
-    - yarn start
+    - yarn test
