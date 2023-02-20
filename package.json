@@ -1,0 +1,20 @@
+{
+  "name": "turbo-ci-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "pnpm turbo generate start --api=http://192.168.31.95:3000 --team=team_FcALQN9XEVbeJ1NjTQoS9Wup --token=HC!r0cks --concurrency=16"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@7.14.0",
+  "dependencies": {
+    "@types/node": "^18.14.0"
+  },
+  "devDependencies": {
+    "turbo": "^1.8.1"
+  }
+}

@@ -1,0 +1,8 @@
+image: registry.smtx.io/cloudtower/node:16-ubuntu-focal-pnpm2
+
+stages:
+  - turbo
+turbo-run:
+  stage: turbo
+  script:
+    - pnpm start 
