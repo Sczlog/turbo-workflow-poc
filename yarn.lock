@@ -7,44 +7,44 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.14.0.tgz#94c47b9217bbac49d4a67a967fdcdeed89ebb7d0"
   integrity sha512-5EWrvLmglK+imbCJY0+INViFWUHg1AHel1sq4ZVSfdcNqGy9Edv3UB9IIzzg+xPaUcAgZYcfVs2fBcwDeZzU0A==
 
-turbo-darwin-64@1.5.3:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/turbo-darwin-64/-/turbo-darwin-64-1.5.3.tgz#3d0f621bacbf4c1ef48148123f80f6844a1e3b1c"
-  integrity sha512-MBS8b/3DuMY6v3ljEX9qssHGQXnI4VDWLqvQ6FGfZFMp8lqa7mfoXv1U/MNR9OhSczaftsIS1e9mnD9m/qv7TQ==
+turbo-darwin-64@1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/turbo-darwin-64/-/turbo-darwin-64-1.7.4.tgz#0fd34f6ce8646b1a9cb543bf0e528b8c1d2af9de"
+  integrity sha512-ZyYrQlUl8K/mYN1e6R7bEhPPYjMakz0DYMaexkyD7TAijQtWmTSd4a+I7VknOYNEssnUZ/v41GU3gPV1JAzxxQ==
 
-turbo-darwin-arm64@1.5.3:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/turbo-darwin-arm64/-/turbo-darwin-arm64-1.5.3.tgz#b610d229e94a007a4901ff92492f2c958f9548ef"
-  integrity sha512-XNSV6SaxS8dAvGx2BF3H7MsKZ4zchj2kP/eXTss/vUcSRsS+zx0urZcEgxeGUeMk7V7fJq/5Ow7thApNojpwpw==
+turbo-darwin-arm64@1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/turbo-darwin-arm64/-/turbo-darwin-arm64-1.7.4.tgz#38a0f3edc6c336c98a414bec8238e294ad650ea7"
+  integrity sha512-CKIXg9uqp1a+Yeq/c4U0alPOqvwLUq5SBZf1PGYhGqJsfG0fRBtJfkUjHuBsuJIOGXg8rCmcGSWGIsIF6fqYuw==
 
-turbo-linux-64@1.5.3:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/turbo-linux-64/-/turbo-linux-64-1.5.3.tgz#d9c8b5845bc45ffe285f65fad8c169455af882c7"
-  integrity sha512-YhYu50CUvy5m80l6dEXEgC3CvjjTelQb14fknAzIXoKztbWhBZqUCucR6jLRZpKgODwP4Fo4LUzz478EMwqy/Q==
+turbo-linux-64@1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/turbo-linux-64/-/turbo-linux-64-1.7.4.tgz#af17111cf905d4c3ee77edcd9dd91315962b339d"
+  integrity sha512-RIUl4RUFFyzD2T024vL7509Ygwcw+SEa8NOwPfaN6TtJHK7RZV/SBP3fLNVOptG9WRLnOWX3OvsLMbiOqDLLyA==
 
-turbo-linux-arm64@1.5.3:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/turbo-linux-arm64/-/turbo-linux-arm64-1.5.3.tgz#0e649e544620b23b05b5cf19de28f2ce61acbc84"
-  integrity sha512-JjJjxy0kkr/xAWAAE8t7UaTBc3GUc5Tz/Bupbve2VzG0w75md0LqXUV34WpyxMiNTNLmK8Dq7bIczG6OkJ29xQ==
+turbo-linux-arm64@1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/turbo-linux-arm64/-/turbo-linux-arm64-1.7.4.tgz#ce20af2a0875b8d204c88d98262b2d434716d548"
+  integrity sha512-Bg65F0AjYYYxqE6RPf2H5TIGuA/EyWMeGOATHVSZOWAbYcnG3Ly03GZii8AHnUi7ntWBdjwvXf/QbOS1ayNB6A==
 
-turbo-windows-64@1.5.3:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/turbo-windows-64/-/turbo-windows-64-1.5.3.tgz#6ce45c184fa67133d33cdd6311ed29a157f4a350"
-  integrity sha512-PS7+Isy7OX9xWWvtg2FKmh/eN4fTNR2r6RW5m+b+zR7t04QLWYOya1R8CeqgA6GyeFpn4KUxC+AeZ0wOi8RSPw==
+turbo-windows-64@1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/turbo-windows-64/-/turbo-windows-64-1.7.4.tgz#1e83d0c2efb9a3081cbbc0a03ed7ce162b774354"
+  integrity sha512-rTaV50XZ2BRxRHOHqt1UsWfeDmYLbn8UKE6g2D2ED+uW+kmnTvR9s01nmlGWd2sAuWcRYQyQ2V+O09VfKPKcQw==
 
-turbo-windows-arm64@1.5.3:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/turbo-windows-arm64/-/turbo-windows-arm64-1.5.3.tgz#81e955f31462954871be1712a8e783e7981ad067"
-  integrity sha512-DQzjFbPRd/Db5kkJtCER5DNcbY4ez5Bh8usemNlPZQ7I/5XwEUl9Rn3ss2LJsiv/pR7PkY92TUvmyFtBnqao8Q==
+turbo-windows-arm64@1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/turbo-windows-arm64/-/turbo-windows-arm64-1.7.4.tgz#7b18118aebf595283787c5c269ced64b0d5f947f"
+  integrity sha512-h8sxdKPvHTnWUPtwnYszFMmSO0P/iUUwmYY9n7iYThA71zSao28UeZ0H0Gw75cY3MPjvkjn2C4EBAUGPjuZJLw==
 
-turbo@1.5.3:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/turbo/-/turbo-1.5.3.tgz#f0975b9c8ddfd296735ccdadadf3270cf170ab59"
-  integrity sha512-/94cswfhXr6wWD6CFyF7E8bjEdjar4O+gzCJ3d49X9t9u9aDYFoQH/TlYTSNbAwXYiGqzJoodhf3kXRyrAiqSg==
+turbo@~1.7.0:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/turbo/-/turbo-1.7.4.tgz#7a8cc107737dd1740732ff17d8133cb1313a4576"
+  integrity sha512-8RLedDoUL0kkVKWEZ/RMM70BvKLyDFen06QuKKhYC2XNOfNKqFDqzIdcY/vGick869bNIWalChoy4O07k0HLsA==
   optionalDependencies:
-    turbo-darwin-64 "1.5.3"
-    turbo-darwin-arm64 "1.5.3"
-    turbo-linux-64 "1.5.3"
-    turbo-linux-arm64 "1.5.3"
-    turbo-windows-64 "1.5.3"
-    turbo-windows-arm64 "1.5.3"
+    turbo-darwin-64 "1.7.4"
+    turbo-darwin-arm64 "1.7.4"
+    turbo-linux-64 "1.7.4"
+    turbo-linux-arm64 "1.7.4"
+    turbo-windows-64 "1.7.4"
+    turbo-windows-arm64 "1.7.4"
