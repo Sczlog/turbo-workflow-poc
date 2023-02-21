@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "yarn turbo generate start --api=http://192.168.31.95:3000 --team=team_FcALQN9XEVbeJ1NjTQoS9Wup --token=HC!r0cks --concurrency=16"
+    "test": "yarn turbo generate start --api=http://192.168.31.95:3000 --team=team_FcALQN9XEVbeJ1NjTQoS9Wup --token=HC!r0cks --concurrency=16 -vvv"
   },
   "keywords": [],
   "author": "",
